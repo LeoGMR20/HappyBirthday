@@ -5,4 +5,15 @@
     <string name="title_activity_articulo_compose">ArticuloComposeActivity</string>
     <string name="title_activity_administrador_tareas">AdministradorTareasActivity</string>
     <string name="title_activity_cuadrante">CuadranteActivity</string>
+    
+    <!--Cuadrantes-->
+    
+    <string name="title_cuadrante1">Text composable</string>
+    <string name="title_cuadrante2">Image composable</string>
+    <string name="title_cuadrante3">Row composable</string>
+    <string name="title_cuadrante4">Column composable</string>
+    <string name="cuadrante_texto_1">Displays text and follows Material Design guidelines.</string>
+    <string name="cuadrante_texto_2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="cuadrante_texto_3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="cuadrante_texto_4">A layout composable that places its children in a vertical sequence.</string>
 </resources>
