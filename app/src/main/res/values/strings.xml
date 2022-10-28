@@ -4,4 +4,5 @@
     <string name="signature_text">- From Emma.</string>
     <string name="title_activity_articulo_compose">ArticuloComposeActivity</string>
     <string name="title_activity_administrador_tareas">AdministradorTareasActivity</string>
+    <string name="title_activity_cuadrante">CuadranteActivity</string>
 </resources>

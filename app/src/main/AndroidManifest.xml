@@ -13,6 +13,15 @@
         android:theme="@style/Theme.HappyBirthday"
         tools:targetApi="31">
         <activity
+            android:name=".CuadranteActivity"
+            android:exported="false"
+            android:label="@string/title_activity_cuadrante"
+            android:theme="@style/Theme.HappyBirthday">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".AdministradorTareasActivity"
             android:exported="false"
             android:label="@string/title_activity_administrador_tareas"
